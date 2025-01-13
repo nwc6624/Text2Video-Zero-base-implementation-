@@ -6,6 +6,8 @@
 This repository is the official implementation of [Text2Video-Zero](https://arxiv.org/abs/2303.13439).
 
 
+ 
+
 **[Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators](https://arxiv.org/abs/2303.13439)**
 </br>
 Levon Khachatryan,
